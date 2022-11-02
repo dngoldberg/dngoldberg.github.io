@@ -42,7 +42,7 @@ Work experience
 
 PhD Supervision
 ======
-See [Group](https://dngoldberg.github.io/iceocean/group/)
+See [Group](https://dngoldberg.github.io/group/)
   
 Service 
 ======
