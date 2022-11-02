@@ -11,10 +11,11 @@ author_profile: false
 
 You can also find my articles on <u><a href="https://scholar.google.co.uk/citations?user=aBIVRPUAAAAJ&hl=en">my Google Scholar profile</a></u>, and most are avavailable for download <u><a href="https://www.research.ed.ac.uk/portal/en/persons/daniel-goldberg(31f184af-242f-446d-9a8a-e8eba59332ea).html">here</a></u> (if the link is broken, please let me know)
 
-
-## Peer Reviewed
+## Accepted / in press.
 
 Morlighem, M. and D N Goldberg. Data Assimilation in Glaciology. To appear in Ismail-Zadeh, A (editor) *Applications of Data Assimilation and Inverse Problems in the Earth Sciences*. IUGG Special Publication Series - Edited monograph. Cambridge: Cambridge University Press.
+
+## Peer Reviewed
 
 Ockenden, H., Bingham, R. G., Curtis, A., and **Goldberg, D.** (2022): Inverting ice surface elevation and velocity for bed topography and slipperiness beneath Thwaites Glacier, The Cryosphere, 16, 3867–3887
 
