@@ -42,23 +42,20 @@ Work experience
 
 PhD Supervision
 ======
-* Donald Slater (Co-supervised) 2013-2017
-* Andrew Twelves 2017-
-* Rosie Bisset (co-supervised) 2017-
-* Tancrede Leger (co-supervised) 2018-
-* George Malczyk (co-supervised) 2018-
-* Helen Ockenden (co-supervised) 2019-
-* Hannah Bischof 2020-
+See [Group](https://dngoldberg.github.io/iceocean/group/)
   
 Service 
 ======
 * Scientific Editor of EGU journal Geoscientific Model Development (**2014 - 2018**)
 * Associate Editor of Journal of Geophysical Research: Earth Surface (**2019** - )
 * Organiser, Challenger Society Ocean Modelling SIG Meeting (**2019**)
+* Co-Organiser, International Glaciological Society-British Branch (**2022**)
+* Co-Organiser, UK Antarctic Science Conference (**2022**)
 * Proposal review for National Science Foundation and National Environment Resource Council, review panel for Department of Energy
 
 Funding Awards
 ======
+* **2022**: NERC Highlight Topics: The Big Thaw: gauging the past, present and future of our mountain water resources (£2M, Co-I)
 * **2020**: Newton Fund Grant SWARM: (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China), (£310K, Co-I)
 * **2019**: NERC Standard Grant (NE/T001607/1): QUoRUM: QUantifying and Reducing Uncertainty in Multi-Decadal projection of Ice Sheet Loss (£485K, PI)
 * **2019**: ESA Grant 4DAntarctica: Characterising subglacial hydrological pathways in Antarctica (€1M, Co-I)
