@@ -16,7 +16,7 @@ redirect_from:
 
 ### Funded Postdoctoral Researchers
 
-**Dr Joe Todd**, PDRA from Oct 2021 <br />
+**Dr Beatriz Recinos**, PDRA from Oct 2021 <br />
 _Funding_: Funded by NERC Standard Grant **QUoRUM** <br />
 _Research_: Large-scale uncertainty quantification in ice-sheet modelling
 
