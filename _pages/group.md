@@ -39,9 +39,6 @@ _First Supervisor_: Prof Rob Bingham
 _Project_: Future changes in primary productivity in the warming west Antarctic Peninsula region <br />
 _Other Supervisors_: Dr Sian Henley, Dr Neil Fraser (SAMS), Dr Matt Mazloff (Scripps)
 
-**Hannah Bischof**, Fully-funded [E4 DTP](https://www.ed.ac.uk/e4-dtp) Student (From Sept 2020) <br />
-_Project_: Future changes in primary productivity in the warming west Antarctic Peninsula region <br />
-_Other Supervisors_: Dr Sian Henley, Dr Neil Fraser (SAMS), Dr Matt Mazloff (Scripps)
 
 **Hannah Picton**, Fully-funded [E4 DTP](https://www.ed.ac.uk/e4-dtp) Student (From Sept 2022) <br />
 _Project_: The influence of climate on the long-term stability of Greeland's outlet glaciers <br />
