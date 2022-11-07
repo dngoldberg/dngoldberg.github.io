@@ -122,4 +122,4 @@ Morrison, J and **D N Goldberg** (2012). A brief study of the force balance betw
 
 **Goldberg, D N.** <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing.pdf">Ice Shelf Buttressing.</a> In: <u>International Encyclopedia of Geography : Wiley</u>
 
-**Goldberg, D N** , Smith, T, Narayanan, S H K, Heimbach, P, Morlighem, M (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive. https://www.essoar.org/pdfjs/10.1002/essoar.10503016.2 doi:10.1002/essoar.10503016.2
+Pringle, G. C., Jones, D. C., Goswami, S., Narayanan, S. H. K., & **Goldberg, D.** (2016). Providing the ARCHER community with adjoint modelling tools for high-performance oceanographic and cryospheric computation.
