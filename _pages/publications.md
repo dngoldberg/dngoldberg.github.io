@@ -13,7 +13,9 @@ You can also find my articles on <u><a href="https://scholar.google.co.uk/citati
 
 ## Accepted / in press.
 
-Bisset R. and P Nienow and **D N Goldberg** and O Wigmore and R A Loayza-Muro and J L Wadham and M Macdonald and R G Bingham. Using thermal UAV imagery to simulate distributed debris thicknesses and sub-debris melt rates on debris-covered glaciers. Accetped for publication in Journal of Glaciology, 2022.
+Nakayama Y and T Hirata and D Goldberg and C Greene. What determines the shape of a Pine-Island-like ice shelf? Accepted for publication in Geophysical Research Letters, 2022.
+
+Bisset R. and P Nienow and **D N Goldberg** and O Wigmore and R A Loayza-Muro and J L Wadham and M Macdonald and R G Bingham. Using thermal UAV imagery to simulate distributed debris thicknesses and sub-debris melt rates on debris-covered glaciers. Accepted for publication in Journal of Glaciology, 2022.
 
 Morlighem, M. and **D N Goldberg**. Data Assimilation in Glaciology. To appear in Ismail-Zadeh, A (editor) *Applications of Data Assimilation and Inverse Problems in the Earth Sciences*. IUGG Special Publication Series - Edited monograph. Cambridge: Cambridge University Press.
 

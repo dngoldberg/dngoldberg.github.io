@@ -35,10 +35,9 @@ _First Supervisor_: Dr Noel Gourmelen
 _Project_: Analysing the form, flow and future of Thwaites Glacier, West Antarctica <br />
 _First Supervisor_: Prof Rob Bingham
 
-**M Bischof**, Fully-funded [E4 DTP](https://www.ed.ac.uk/e4-dtp) Student (From Sept 2020) <br />
+**Milo Bischof**, Fully-funded [E4 DTP](https://www.ed.ac.uk/e4-dtp) Student (From Sept 2020) <br />
 _Project_: Future changes in primary productivity in the warming west Antarctic Peninsula region <br />
 _Other Supervisors_: Dr Sian Henley, Dr Neil Fraser (SAMS), Dr Matt Mazloff (Scripps)
-
 
 **Hannah Picton**, Fully-funded [E4 DTP](https://www.ed.ac.uk/e4-dtp) Student (From Sept 2022) <br />
 _Project_: The influence of climate on the long-term stability of Greeland's outlet glaciers <br />
