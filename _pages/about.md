@@ -18,7 +18,7 @@ About me
 
 I am interested in the way that ice interacts with other components of the climate system: the ocean, the atmosphere and the biosphere. To understand the importance of these interactions and their role in the climate system, I use and develop numerical models, ranging from simple matlab codes to regional coupled ice sheet-ocean models. My main interests lie in improving the representation of poorly-resolved processes in ice-sheet and climate models, and in recovering hidden properties using a synthesis of models and data.
 
-## PhD Opportunity through the Edinburgh E4 DTP
+<span style="color:red;font-weight:bold;font-size:large">PhD Opportunity through the Edinburgh E4 DTP</span>
 
 ### Understanding ice-ocean-biogeochemical interactions in the Prydz Bay, East Antarctica.
 
