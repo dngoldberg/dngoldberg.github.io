@@ -24,6 +24,12 @@ I am interested in the way that ice interacts with other components of the clima
 
 More details can be found <u><a href="https://www.ed.ac.uk/e4-dtp/how-to-apply/supervisor-led-projects/project?item=1516">here</a></u>
 
+<span style="color:red;font-weight:bold;font-size:large">PhD Opportunity through the Edinburgh SENSE CDT:</span><span style="font-weight:bold;font-size:large"> A machine learning approach to constraining ice volume and potential loss in High Mountain Asia.</span>
+
+**Supervisors**: Daniel Goldberg (School of GeoSciences), Guillaume Jouvet (University of Lausanne), Hamish Pritchard (BAS), Anna Crawford (School of GeoSciences)
+
+More details can be found <u><a href="https://eo-cdt.org/projects/a-machine-learning-approach-to-constraining-ice-volume-and-potential-loss-in-high-mountain-asia/">here</a></u>
+
 <!--- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
