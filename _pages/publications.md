@@ -11,15 +11,25 @@ author_profile: false
 
 You can also find my articles on <u><a href="https://scholar.google.co.uk/citations?user=aBIVRPUAAAAJ&hl=en">my Google Scholar profile</a></u>, and most are avavailable for download <u><a href="https://www.research.ed.ac.uk/portal/en/persons/daniel-goldberg(31f184af-242f-446d-9a8a-e8eba59332ea).html">here</a></u> (if the link is broken, please let me know)
 
-## Accepted / in press.
+## Book Chapters
 
-Nakayama Y and T Hirata and D Goldberg and C Greene. What determines the shape of a Pine-Island-like ice shelf? Accepted for publication in Geophysical Research Letters, 2022.
-
-Bisset R. and P Nienow and **D N Goldberg** and O Wigmore and R A Loayza-Muro and J L Wadham and M Macdonald and R G Bingham. Using thermal UAV imagery to simulate distributed debris thicknesses and sub-debris melt rates on debris-covered glaciers. Accepted for publication in Journal of Glaciology, 2022.
-
-Morlighem, M. and **D N Goldberg**. Data Assimilation in Glaciology. To appear in Ismail-Zadeh, A (editor) <i><a href="https://www.cambridge.org/de/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/applications-data-assimilation-and-inverse-problems-earth-sciences?format=HB">Applications of Data Assimilation and Inverse Problems in the Earth Sciences</a></i>. IUGG Special Publication Series - Edited monograph. Cambridge: Cambridge University Press.
+Morlighem, M. and **D N Goldberg**. Data Assimilation in Glaciology. in Ismail-Zadeh, A (editor) <i><a href="https://www.cambridge.org/de/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/applications-data-assimilation-and-inverse-problems-earth-sciences?format=HB">Applications of Data Assimilation and Inverse Problems in the Earth Sciences</a></i>. IUGG Special Publication Series - Edited monograph. Cambridge: Cambridge University Press.
 
 ## Peer Reviewed
+
+Recinos, B., **Goldberg, D.**, Maddison, J. R., and Todd, J.: A framework for time-dependent ice sheet uncertainty quantification, applied to three West Antarctic ice streams, The Cryosphere, 17, 4241–4266.
+
+Malczyk G, Gourmelen N, Werder M, Wearing M, **Goldberg D.** Constraints on subglacial melt fluxes from observations of active subglacial lake recharge. Journal of Glaciology. Published online 2023:1-15. doi:10.1017/jog.2023.70
+
+Ockenden H, Bingham RG, Curtis A, **Goldberg D.** Ice-flow perturbation analysis: a method to estimate ice-sheet bed topography and conditions from surface datasets. Journal of Glaciology. Published online 2023:1-10. doi:10.1017/jog.2023.50
+
+Gudmundsson, G. H., Barnes, J. M., **Goldberg, D. N.**, & Morlighem, M. (2023). Limited impact of Thwaites Ice Shelf on future ice loss from Antarctica. Geophysical Research Letters, 50, e2023GL102880.
+
+Das, I., Morlighem, M., Barnes, J. M., Gudmundsson, G. H., **Goldberg, D.** & Santos, T. (2023). In the Quest of a Parametric Relation Between Ice Sheet Model Inferred Weertman Sliding-Law Parameter and Airborne Radar-Derived Basal Reflectivity Underneath Thwaites Glacier, Antarctica. Geophysical Research Letter, 50, e2022GL098910.
+
+Bisset R. and P Nienow and **D N Goldberg** and O Wigmore and R A Loayza-Muro and J L Wadham and M Macdonald and R G Bingham (2022). Using thermal UAV imagery to simulate distributed debris thicknesses and sub-debris melt rates on debris-covered glaciers. Journal of Glaciology, 69 (276), pp 981-996.
+
+Nakayama Y and T Hirata and D Goldberg and C Greene (2022). What determines the shape of a Pine-Island-like ice shelf? Geophysical Research Letters, 49 (22).
 
 Ockenden, H., Bingham, R. G., Curtis, A., and **Goldberg, D.** (2022): Inverting ice surface elevation and velocity for bed topography and slipperiness beneath Thwaites Glacier, The Cryosphere, 16, 3867–3887
 
