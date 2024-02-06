@@ -17,6 +17,8 @@ Morlighem, M. and **D N Goldberg**. Data Assimilation in Glaciology. in Ismail-Z
 
 ## Peer Reviewed
 
+**Goldberg, D. N.**, Twelves, A. G., Holland, P. R., & Wearing, M. G. (2023). The non-local impacts of Antarctic subglacial runoff. Journal of Geophysical Research: Oceans, 128, e2023JC019823.
+
 Recinos, B., **Goldberg, D.**, Maddison, J. R., and Todd, J.: A framework for time-dependent ice sheet uncertainty quantification, applied to three West Antarctic ice streams, The Cryosphere, 17, 4241–4266.
 
 Malczyk G, Gourmelen N, Werder M, Wearing M, **Goldberg D.** Constraints on subglacial melt fluxes from observations of active subglacial lake recharge. Journal of Glaciology. Published online 2023:1-15. doi:10.1017/jog.2023.70
