@@ -17,7 +17,7 @@ Morlighem, M. and **D N Goldberg**. Data Assimilation in Glaciology. in Ismail-Z
 
 ## Peer Reviewed
 
-
+Barnes, J. M., Gudmundsson, G. H., **Goldberg**, D. N., & Sun, S. Modelling the sensitivity of ice loss to calving front retreat rates in the Amundsen Sea Embayment, West Antarctica. Accepted for publication in The Cryosphere.
 
 Ockenden, H., Bingham, R. G., **Goldberg**, D., Curtis, A., & Morlighem, M.
 (2026). Complex mesoscale landscapes beneath antarctica mapped from
