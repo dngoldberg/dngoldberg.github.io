@@ -17,6 +17,8 @@ Morlighem, M. and **D N Goldberg**. Data Assimilation in Glaciology. in Ismail-Z
 
 ## Peer Reviewed
 
+**Goldberg**, D. N., Morlighem, M, and Gourmelen, N (2026). Recent observations of Thwaites Glacier, West Antarctica are consistent with high rates of loss in next 50 years. Accepted for publication in *Geophysical Research Letters*, https://doi.org/10.1029/2025GL118823
+
 Barnes, J. M., Gudmundsson, G. H., **Goldberg**, D. N., and Sun, S. (2026). Modelling the sensitivity of ice loss to calving front retreat rates in the Amundsen Sea Embayment, West Antarctica. *The Cryosphere*, 20, 777–790, https://doi.org/10.5194/tc-20-777-2026.
 
 Ockenden, H., Bingham, R. G., **Goldberg**, D., Curtis, A., & Morlighem, M.
